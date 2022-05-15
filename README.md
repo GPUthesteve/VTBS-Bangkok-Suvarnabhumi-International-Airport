@@ -20,5 +20,4 @@ GPS2020 : https://library.avsim.net/search.php?SearchTerm=gps2020&CatID=root&Go=
 		  also, it's very helpful when ATCs ask you to proceed direct some waypoint on the route and default DTO function breaks the flightplan. 
 		  
 		  
-		  
-		  
+Create using Airport Design Editor V1.79, FSX native.  
