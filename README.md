@@ -22,4 +22,4 @@ GPS2020 : https://library.avsim.net/search.php?SearchTerm=gps2020&CatID=root&Go=
 		  
 Create using Airport Design Editor V1.79, FSX native. 
 
-oh, and this thing is pure CAD file, no custom building used. if u want, buy actual one. i make this just for "free".
+oh, and this thing is pure AFCAD file, no custom building used. if u want, buy actual one. i make this just for "free".
