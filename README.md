@@ -1,5 +1,5 @@
 # VTBS-Bangkok-Suvarnabhumi-International-Airport
-a place to provide afcad update for ppl who wants this airport updated
+a place to provide "afcad" update for ppl who wants this airport updated
 
 lets go long.. starting with some infos of the airport...lol
 
